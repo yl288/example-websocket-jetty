@@ -2,6 +2,11 @@
 
 WebSocket example using Jetty.
 
-http://www.eclipse.org/jetty/documentation/current/websocket-jetty.html
+## Running
 
-http://www.eclipse.org/jetty/documentation/current/embedding-jetty.html
+Run the class with the main method and go to http://localhost:8080 for the test page.
+
+## Links
+
+- http://www.eclipse.org/jetty/documentation/current/websocket-jetty.html
+- http://www.eclipse.org/jetty/documentation/current/embedding-jetty.html
