@@ -17,7 +17,7 @@ public class WebSocketExampleApp {
 	public static void main(String[] args) {
 		logger.info("Hello World!");
 		
-		Server server = new Server(8080);
+		Server server = new Server(20860);
 		
 		ResourceHandler resourceHandler = new ResourceHandler();
 		resourceHandler.setDirectoriesListed(true);
