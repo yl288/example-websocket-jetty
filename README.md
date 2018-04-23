@@ -4,7 +4,7 @@ WebSocket example using Jetty.
 
 ## Running
 
-Run the class with the main method and go to http://localhost:8080 for the test page.
+Run the class with the main method and go to http://localhost:20860 for the test page.
 
 ## Links
 
